@@ -11,6 +11,8 @@ export class AddEventPage {
 
   event = { title: "", location: "", message: "", startDate: "", endDate: "" };
 
+ 
+
   constructor(public alertCtrl: AlertController,
     public navCtrl: NavController,
     public navParams: NavParams,
