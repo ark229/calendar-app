@@ -12,7 +12,7 @@ The calendar app was created with Ionic v3 and Cordova
 
 ## Issues
 
-<p>I was only able to present and screencast only the basic features of the application. The full features of this app cannot tested within the browser, since cordova cannot be run in the broswer. That is shown during my demonstration when the error appeared. I ended up facing several issues when trying to run the app in the android emulator to fully test it for the demonstartion. </p>
+<p>I was only able to present and screencast the basic features of the application. The full features of this app cannot be tested within the browser, since cordova cannot run on the browser. This issue is shown during my demonstration when the cordova error appeared. I ended up facing several issues when trying to run the app with the android emulator to fully test it for the demonstartion. To utlize Ionic v3 for the class I had to use a linux virtual machine. The virtual machine did not have enough space to run Android Studio's emulator properly. When I tried to do it on my local machine by cloning the repo and running the application from there, I encountered a lot of problems.</p>
 
 ## Images
 
