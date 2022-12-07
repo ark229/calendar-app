@@ -1,4 +1,4 @@
-# Calendar Application | Final Project
+# Calendar Application | Final Project | Arnetta
 
 ## Documentation
 
